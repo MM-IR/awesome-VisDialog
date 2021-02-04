@@ -13,3 +13,8 @@
 2.reason semantic structures among them.
 
 
+## 2.Multi-step Reasoning via Recurrent Dual Attention for Visual Dialog@ReDAN
+
+## Visual Dialog和VQA的一个区别
+就是VQA只需要回答关于图像的一个问题而已，而视觉对话就是需要回答一系列的问题。
+
